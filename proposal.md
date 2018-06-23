@@ -1,4 +1,4 @@
-# US_ConsumerComplaints
+# US_Consumer Complaints
 # PROBLEM STATEMENT:
 Consumers, these days have become very selective and picky when it comes to selecting a bank and its services. Consumers expect smooth and hassle free transactions. Thus, while selecting or migrating from one bank to the other, consumers often heavily depend on positive word-of-mouth or online reviews to evaluate the bank services. I thus propose to investigate the United States Consumer Complaint Database and perform machine learning algorithms on the dataset to predict whether consumers were satisfied or disputed after registering complaints regarding specific services of banks all over the United States. 
 
